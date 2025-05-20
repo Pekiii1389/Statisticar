@@ -1,0 +1,22 @@
+Ako nisi prvo pročitao "PROČITATI PRE KORIŠĆENJA.txt" onda izađi odavde i idi čitaj.
+
+PRIMER:
+*Završena je prva utakmica prvog kola i postignut je 1 gol. Sada, imate podatke gola i sačuvane mreže golmana suparničkog golmana i sada
+morate da unesete u bazu koju ćete napraviti za tu sezonu*
+
+- Kreirate bazu sa normalnim nazivom (ServerLigaSezona5Liga, ServerLigaSezona5Kup i slično) u boxu iznad dugmeta 
+"Kreiraj Bazu" i zatim stisnete to dugme. Baza će biti napravljena sa podacima
+"Nick, Golovi, Asistencije, ZutiKartoni, CrveniKartoni, SacuvaneMreze" i biće vam u listi ispod dugmeta "Kreiraj Bazu".
+
+- Kliknete na tu bazu u listi i stisnete dugme "Učitaj Bazu". Biće učitana u prozoru iznad u tabelarnom predstavljanju.
+
+- Od 3 okrugla dugmeta, stisnete "Novi Igrač" kako biste dodali vaše prve igrače koji su zabeležili neki podatak (gol i sacuvana mreža)
+i onda unesete ime i stisnete "Unesi".
+
+- Kada ste ih dodali, stisnete okruglo dugme "Statistika" i ukucate tačan naziv... recimo, prvo tog golgetera. Zatim, ispod unosite
+broj golova koji je dao (u ovom slučaju 1).
+
+- Kada ste gotovi, stisnete dugme "Unesi" i njegovi podaci biće ažurirani tako što će dobiti +1 gol. Isto ovo uradite za golmana i
+sačuvane mreže.
+
+- I... to vam je suština. Ostala dugmad možete i sami da otkrijete, ali nadam se da ih nećete otkriti na pogrešan način :)

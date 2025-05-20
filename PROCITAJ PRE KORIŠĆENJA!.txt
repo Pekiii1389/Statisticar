@@ -1,0 +1,27 @@
+Dobar dan, FCFA članu!
+
+- Odlučio sam da ti ulepšam i ujedno olakšam dan kreiranjem app-a koji ti bar 50% (za sada) automatizuje sav posao oko vođenja
+statistike.
+- Ispod ovoga ti pišu informacije i pravila o svakoj verziji ovog programa.
+------------------------------------------------------------------------------------------------------------------------------
+V1.0
+- Baza NIKAKO ne sme biti preimenovana nakon što je napravite! Obratite pažnju kako je nazivate!
+- Ako ste pogrešili prilikom unosa statistike, tj. ako ste negde slučajno ukucali veći broj podataka nego što ima, prepravljate
+to tako što možete uneti "-" ispred unosa. Na primer, ako ste slučajno dodali nekome 1 gol, onda mu opet "dodate" -1 gol i sve
+je rešeno.
+- Nažalost, opcija kopije baze sa igračima gde biste imali sve podatke od nule je i dalje nedostupna. Biće olakšano u narednim
+verzijama, a do tada ćete morati sami da unosite igrača po igrača u novu bazu.
+- "Data" folder NIKAKO ne sme biti preimenovan!
+- U "Data" folderu postoji fajl "default.db" koji je kreiran kako bi se ostvarila konekcija sa folderom i programom. To je
+imaginarna baza koja nema ništa u sebi i ujedno NIKAKO ne smete da je dirate.
+- Imate "Test" bazu sa jednim igračem gde možete da oprobate sve komande.
+- Mislim da vam je ovo jasno ali neka i ovo ovde. Da biste želeli da promenite podatke u bazi morate prvo da je učitate u
+gornji prozor tako što selektujete u listi baza tu koju želite, a onda stisnete dugme "Učitaj Bazu". Baza kojom manipulišete
+ima svoj naziv zapisan dole levo ispod prozora sa tabelom.
+-------------------------------------------------------------------------------------------------------------------------------
+- Pročitajte u txt fajlu "POČETAK" kako izgleda teorijski primer rada sa programom.
+- Ako imate zamerku, problem, ako vam treba pomoć, ako imate neki savet za poboljšanje (ne računam kao savet opciju kopiranja
+baze jer i sam znam da moram to da vam uradim), ako postoji greška, možete da se obratite meni preko "Discorda".
+- Verzija i kontakt su napisani dole desno na prozoru programa.
+- Nadam se da sam vam pomogao, srećno!
+Nova, lepša i funkcionalnija verzija će izaći tokom leta, neću zaboraviti na vas :)
